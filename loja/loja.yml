@@ -2,7 +2,7 @@ spring:
   datasource:
     password: root
     username: admin123
-    url: 'jdbc:mariadb://localhost:3307/loja'
+    url: 'jdbc:mariadb://localhost:3306/loja'
   jpa:
     hibernate:
       ddl-auto: update
