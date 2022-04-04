@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: root
-    username: admin123
+    password: admin123
+    username: root
     url: 'jdbc:mariadb://localhost:3306/loja'
   jpa:
     hibernate:
